@@ -1,7 +1,7 @@
 Hello
 
 
-Welcome to my resipository **Miltonawiti/Miltonawiti**
+Welcome to my resipository **Miltonawiti/Miltonawiti** where learn about Public Health Disease Surveillance Architecture Development Project and optimizing HPV vaccination through school health targeted programs in USA.
 
 
 - 🔭 I am a currently pursuing Masters in Health Informatics at Michigan Technological University 
