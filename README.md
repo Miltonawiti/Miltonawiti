@@ -5,7 +5,8 @@ Welcome to my resipository **Miltonawiti/Miltonawiti** where you will learn abou
 
 
 - 🔭 I am a currently pursuing Masters in Health Informatics at Michigan Technological University 
-- 🌱 I’m currently learning Applied computing with python,Population health Informatics and have special Interest in Machine Learning in healthcare
+- 🌱 I’m currently learning Clinical Decision Support System with Artificial Intelligence,Introduction to big Data,Security and Privacy and Introduction to health Informatics.
+- I have undertaken  Applied computing with python,Population health Informatics and have special Interest in Machine Learning in healthcare
 - 👯 I’m looking to collaborate on Artificial Intelligence and related projects
 - 🤔 I'm seeking assistance in improving my proficiency in biological computational techniques.
 - 💬 Feel free to inquire about disease surveillance and statistical methods in medicine.
